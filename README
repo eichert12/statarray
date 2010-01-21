@@ -1,0 +1,14 @@
+StatArray 0.0.1
+Soyabean Software Pty Ltd
+
+StatArray is a simple way of calculating statistics about an array of data.
+Originally part of the ROMNeT suite. 
+
+Authors:	Dan Cutting <dcutting@soyabean.com.au>
+			David Symonds <dsymonds@gmail.com>
+
+Copyright (C) 2005-2006 Soyabean Software Pty Ltd <http://www.soyabean.com.au>
+
+You should have received a copy of the GNU General Public License along with
+Risc; if not, write to the Free Software Foundation, Inc., 51 Franklin St,
+Fifth Floor, Boston, MA  02110-1301  USA
